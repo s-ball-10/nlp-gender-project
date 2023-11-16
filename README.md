@@ -19,7 +19,7 @@ At the heart of many gender attribution attempts in machine learning is the assu
 
 **RQ3**: Is linguistic adaption, if it exists, equally driven by both genders?
 
-Please read the [analysis text file](text_nlp_gender) which includes the derivation of hypotheses, explanations for the methods, the results and limitations of this work, and the references.
+Please read the [analysis text file](text_nlp_gender.pdf) which includes the derivation of hypotheses, explanations for the methods, the results and limitations of this work, and the references.
 
 ### References mentioned in README.md
 
