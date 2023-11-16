@@ -22,7 +22,10 @@ At the heart of many gender attribution attempts in machine learning is the assu
 
 Please read the [analysis text file](text_nlp_gender.pdf) which includes the derivation of hypotheses, explanations for the methods, the results and limitations of this work, and the references.
 
-The code is accessible [here](complete_code_nlp_gender.ipynb) or as a [google colab](https://drive.google.com/file/d/1MuZFWWQ-UEt5csh0KBXM18u94VuywYjl/view?usp=sharing)
+The code is accessible [here](complete_code_nlp_gender.ipynb) or as a [google colab](https://drive.google.com/file/d/1MuZFWWQ-UEt5csh0KBXM18u94VuywYjl/view?usp=sharing).
+
+Data can be downloaded [here](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/). Choose the books meta data dateset to replicate this work.
+
 
 
 ### References mentioned in README.md
