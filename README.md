@@ -1,7 +1,8 @@
 # nlp-gender-project
 This repository contains the code and write-up for a student project conducted at the Universtiy of Oxford in spring 2022. 
 
-It’s title is: \\
+It’s title is: 
+
 **Language differences and accommodation in Amazon book reviews --
 An analysis of gendered online environments and their impact on linguistic
 differences between the sexes**
