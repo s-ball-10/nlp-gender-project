@@ -1,7 +1,7 @@
 # nlp-gender-project
 This repository contains the code and write-up for a student project conducted at the Universtiy of Oxford in spring 2022. 
 
-It’s title is: 
+It’s title is: \\
 **Language differences and accommodation in Amazon book reviews --
 An analysis of gendered online environments and their impact on linguistic
 differences between the sexes**
@@ -21,6 +21,9 @@ At the heart of many gender attribution attempts in machine learning is the assu
 
 Please read the [analysis text file](text_nlp_gender.pdf) which includes the derivation of hypotheses, explanations for the methods, the results and limitations of this work, and the references.
 
+The code is accessible [here](complete_code_nlp_gender.ipynb) or as a [google colab](https://drive.google.com/file/d/1MuZFWWQ-UEt5csh0KBXM18u94VuywYjl/view?usp=sharing)
+
+
 ### References mentioned in README.md
 
 Eckert, P. (2008). Variation and the indexical field 1. Journal of sociolinguistics, 12(4), 453– 476.
@@ -34,11 +37,3 @@ Lakoff, R. (1973). Language and woman’s place. Language in society, 2(1), 45�
 
 Nguyen, D., Trieschnigg, D., Doğruöz, A. S., Gravel, R., Theune, M., Meder, T., & de Jong, F. (2014). Why gender and age prediction from tweets is hard: Lessons from a crowdsourcing experiment. In 25th International Conference on Computational Linguistics (COLING 2014), (pp. 1950–1961). Dublin City University and Association for Computational Linguistics.
 
-
-
-
- 
-
-
-
-Code accessible also [here](https://drive.google.com/file/d/1MuZFWWQ-UEt5csh0KBXM18u94VuywYjl/view?usp=sharing)
